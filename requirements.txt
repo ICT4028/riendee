@@ -1,0 +1,9 @@
+เว็บรวยดี
+streamlit
+pandas
+openpyxl
+
+เว็บเรียนดี
+google-generativeai
+requests
+beautifulsoup4
