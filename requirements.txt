@@ -1,8 +1,0 @@
-เว็บรวยดี
-streamlit
-pandas
-openpyxl
-
-เว็บเรียนดี
-beautifulsoup4
-requests
